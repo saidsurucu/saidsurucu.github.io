@@ -1,0 +1,1 @@
+# yapayzekahocasi.github.io
