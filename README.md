@@ -97,6 +97,3 @@ TÜBİTAK Bigg 1512 başvuruları için rehberlik sağlar. Başvuru süreciyle i
 **Ne Yapar?**  
 Akademik atıfları İSNAD atıf formatına çeviren yardımcı bir araçtır.
 
----
-
-*Not: Bu içerik, HTML sitenizde yer alan bilgilerin Markdown formatına uyarlanmış hali olup, ihtiyacınıza göre düzenleyebilir veya detaylandırabilirsiniz.*
