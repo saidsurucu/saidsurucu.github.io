@@ -97,3 +97,9 @@ TÜBİTAK Bigg 1512 başvuruları için rehberlik sağlar. Başvuru süreciyle i
 **Ne Yapar?**  
 Akademik atıfları İSNAD atıf formatına çeviren yardımcı bir araçtır.
 
+---
+
+### 12. Qualitative Analysis Helper
+[chatgpt.com/g/g-67d58a20cec881919e7fae9a543123e6-qualitative-analysis-helper](https://chatgpt.com/g/g-67d58a20cec881919e7fae9a543123e6-qualitative-analysis-helper)  
+**Ne Yapar?**  
+Bu GPT ile codebook'lar oluşturabilir, bu kodların birbirleriyle ilişkilerini gösteren Sankey diyagramları çizebilirsiniz.
