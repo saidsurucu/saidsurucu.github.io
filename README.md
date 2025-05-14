@@ -107,6 +107,6 @@ Bu GPT ile codebook'lar oluşturabilir, bu kodların birbirleriyle ilişkilerini
 ---
 
 ### 13. BibTeX/RIS Converter
-[chatgpt.com/g/g-681c7ad17a588191ada36b64ae346433-bibtex-ris-converter] (https://chatgpt.com/g/g-681c7ad17a588191ada36b64ae346433-bibtex-ris-converter)
+[chatgpt.com/g/g-681c7ad17a588191ada36b64ae346433-bibtex-ris-converter](https://chatgpt.com/g/g-681c7ad17a588191ada36b64ae346433-bibtex-ris-converter)
 **Ne Yapar?**  
 Bu GPT ile kaynakçalarınızı Zotero, Mendeley, Endnote gibi programlarla uyumlu formatlara çevirebilirsiniz.
