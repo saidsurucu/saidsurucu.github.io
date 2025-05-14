@@ -103,3 +103,10 @@ Akademik atıfları İSNAD atıf formatına çeviren yardımcı bir araçtır.
 [chatgpt.com/g/g-67d58a20cec881919e7fae9a543123e6-qualitative-analysis-helper](https://chatgpt.com/g/g-67d58a20cec881919e7fae9a543123e6-qualitative-analysis-helper)  
 **Ne Yapar?**  
 Bu GPT ile codebook'lar oluşturabilir, bu kodların birbirleriyle ilişkilerini gösteren Sankey diyagramları çizebilirsiniz.
+
+---
+
+### 13. BibTeX/RIS Converter
+[chatgpt.com/g/g-681c7ad17a588191ada36b64ae346433-bibtex-ris-converter] (https://chatgpt.com/g/g-681c7ad17a588191ada36b64ae346433-bibtex-ris-converter)
+**Ne Yapar?**  
+Bu GPT ile kaynakçalarınızı Zotero, Mendeley, Endnote gibi programlarla uyumlu formatlara çevirebilirsiniz.
